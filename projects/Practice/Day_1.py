@@ -1,4 +1,5 @@
 
+#Day 1 Practice
 #Print the number of characters in the input name
 
 #Method 1, calling a variable 
@@ -26,3 +27,4 @@ b = c
 # 🚨 Don't change the code below 👇
 print("a: " + a)
 print("b: " + b)
+
