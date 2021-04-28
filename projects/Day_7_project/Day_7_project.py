@@ -16,7 +16,7 @@ lives = 6
 print(logo)
 
 #Testing code
-print(f'Pssst, the solution is {chosen_word}.')
+#print(f'Pssst, the solution is {chosen_word}.')
 
 #Create blanks
 display = []
@@ -44,6 +44,7 @@ while not end_of_game:
         if lives == 0:
             end_of_game = True
             print("You lose.")
+            print(f'Pssst, the solution is {chosen_word}.')
 
     #Join all the elements in the list and turn it into a String.
     print(f"{' '.join(display)}")
