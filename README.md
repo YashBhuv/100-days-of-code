@@ -7,10 +7,3 @@
 The #100DaysOfCode challenge is a journey to gaining skills in the programming world.<br>
 I have chosen to master Python by building 100 projects in 100 days with Angela Yu's 100 Days of Python Pro. I will be uploading all progress to my [log](https://github.com/YashBhuv/100-days-of-code/tree/main/projects).<br>
 
-
-## Contents
-
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-*
